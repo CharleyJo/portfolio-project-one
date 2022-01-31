@@ -1,3 +1,20 @@
-h1 {
-    color: blue;
+* {
+    margin: 0;
 }
+
+h1 {
+    color: #4d175a;
+    font-size: 60px;
+}
+ 
+header {
+    background-color: rgba(228, 220, 220, 0.808);
+}
+
+nav ul {
+    float: right;
+    font-size: 2.5rem;
+    list-style-type: none;
+     display: flex;
+}
+

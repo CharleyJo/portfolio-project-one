@@ -6,6 +6,7 @@ body {
     background: url(/assets/images/background-img-smaller.jpg);
     height: 100vh;
     font-family: 'Satisfy', cursive;
+
 }
 
 footer {
@@ -15,6 +16,7 @@ font-size: 25px;
 margin-top: 30px;
 padding: 30px;
 text-align: center;
+left: 0;
 bottom: 0;
 }
 
@@ -145,16 +147,49 @@ nav {
 
     .book-now-h1 p {
         font-family: cursive;
-        margin: 0 100px 0 100px;
+        margin: 0 100px 30px 100px;
         text-align: center;
     }
     
     form {
-        margin-top: 10px;
+       
+        display: grid;
+        border-radius: 5px;
+        background-color: rgba(236, 214, 243, 0.966);
+        font-size: 25px;
+        justify-items: center;
+        height: 80%;
+ 
+}
+.form-container {
+    width: 40%;
+    margin: auto;
+    padding: 50px; 
         
-    }
+}
+
+input[type="text" i] {
+    padding: 10px;
+    width: 70%;
+}
+
+input[type="tel" i] {
+    padding: 10px;
+    width: 70%;
+}
+
+input[type="submit" i] {
+    width: 50%;
+    padding: 10px;
+    background-color:hsl(288, 59%, 22%);
+    color: white;
+    font-weight: bold;
+    margin-top: 5px;
+    border-radius: 2px;
+}
 
     
+
 
 
 

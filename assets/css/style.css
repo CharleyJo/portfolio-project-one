@@ -143,6 +143,26 @@ img {
     padding: 20px;
 }
 
+#rose-quartz {
+    height: 250px;  
+    width: 250px;
+}
+
+#clear-quartz {
+    height: 250px;  
+    width: 250px;
+}
+
+#amethyst {
+    height: 250px;  
+    width: 250px;
+}
+
+#citrine {
+    height: 250px;  
+    width: 250px;
+}
+
 header {
 
     position: fixed;
@@ -252,8 +272,8 @@ label {
 
 .fa {
     padding: 20px;
-    font-size: 35px;
-    width: 30px;
+    font-size: 25px;
+    width: 45px;
     text-align: center;
     text-decoration: none;
     margin: 5px 5px;
@@ -286,8 +306,8 @@ label {
     }
 
     .flex-container {
-        display: block;
-
+        display: inline-grid;
+        justify-content: space-between;
     }
 
     .flex-item {

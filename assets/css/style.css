@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url(../images/background-img-smaller.jpg);
+    background-image: url(../images/background-img-webp.webp);
     font-family: 'Satisfy', cursive;
 }
 
@@ -333,6 +333,7 @@ label {
 }
 
 @media screen and (max-width: 400px) {
+    
 
     h1 {
         font-size: 35px;

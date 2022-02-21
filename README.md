@@ -29,3 +29,79 @@ Google fonts were used to import the "Satisfy" and “cursive" font into the sty
 ## Font Awesome
 Font Awesome was used on all pages throughout the website to add icons for social media links in the footer.
 
+Heading 
+* The main heading is used through out the site, I used the "Satisfy" font as this caught my eye as a very spiritual style font, and I used a purple and white color scheme, contrast was low so I changed to a darker background color and a lighter font color. 
+
+Navigation
+* The navigation menu features on all pages of the site. The position and style is consistent thought the three pages. A cursor pointer is implemented so when the user hovers over the desired page, the user can see that this is a clickable nav. The font used was the same as the heading keeping it consistent with the theme of the site.
+
+![image of heading and navigation bar used](./assets/images/heading.png)
+
+Footer
+* The Footer has social media links including Instagram, Wikipidia and YouTube, they are consistent on all pages. I added the social media links for extra resources for the user to learn more regarding crystals and healing, all the links take the user to reiki or crystal inspired pages. In the footer for the Crystal and Reiki Healing pages I have included inspirational quotes that I think fit the subjects perfectly.
+
+![Footer image](./assets/images/footer.png)
+
+
+## Holistic Healing and Crystals Main Page
+
+### Crystals
+
+* The main page of the site has a subtle background image which I use across all of the three pages keeping it familiar to the user. The page consists of two paragraphs of text, the first gives a brief insight into the power of crystals.
+
+![Paragraph 1](./assets/images/power-of-crystals.png)
+
+ * The second paragraph is to help the user know where to start when choosing their own crystals.
+
+ ![Paragraph 2](./assets/images/readme-choosing-crystals.png)
+
+*  In between these paragraphs is a grid containing four of the most common crystals used by begginers and an image and a brief description of the crystals properties.
+
+![Crystal image 1](./assets/images/readme-amethyst.png)
+
+![Crystal image 2](./assets/images/readme-clear-quartz.png)
+
+![Crystal image 3](./assets/images/readme-rose-quartz.png)
+
+![Crystal image 4](./assets/images/readme-citrine.png)
+
+## Holistic Healing and Crystals Second Page
+
+### Reiki Healing
+
+* This page also consists of two paragraphs, the first giving the user information about what the Reiki Healing method is.
+
+![Reiki healing paragraph](./assets/images/readme-reiki-healing.png)
+
+* The second paragraph is a brief background history of Reiki with two spiritual healing body images either side.
+
+![Reiki healing paragraph 2](./assets/images/readme-history-of-reiki.png)
+
+## Holistic Healing and Crystals Third Page
+
+### Contact
+
+* The contact page is made up of a short paragraph explaining that there are various Reiki classes across the UK that the user can attend if they enter in some personal information that requests more details, and a form for the user to input this.
+
+![Paragraph](./assets/images/form-para.png)
+
+![Form](./assets/images/form.png)
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+Photos source
+ * https://www.vecteezy.com/
+ * https://www.istockphoto.com/
+ * https://www.pexels.com/
+
+  To save on file space I ran all photos through https://tinypng.com/ and 
+  https://image.online-convert.com
+
+  ## Git
+Git was used for version control by utilizing the Gitpod terminal, to commit to Git and Push to GitHub.
+## VSCODE:
+VSCODE is used to store the projects code after being pushed from Git.
+ 

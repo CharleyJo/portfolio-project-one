@@ -267,8 +267,8 @@ label {
 }
 
 .fa {
-    padding: 20px;
-    font-size: 25px;
+    padding: 10px;
+    font-size: 40px;
     width: 45px;
     text-align: center;
     text-decoration: none;
@@ -282,15 +282,30 @@ label {
   color: black;
 }
 
+.fa-wikipedia-w:before {
+    content: "\f266";
+    font-size: 40px;
+}
+
 
 .fa-youtube {
     background: #bb0000;
     color: white;
   }
+
+  .fa-youtube:before {
+    content: "\f167";
+    font-size: 40px;
+  }
   
   .fa-instagram {
     background: #125688;
     color: white;
+  }
+
+  .fa-instagram:before {
+    content: "\f16d";
+    font-size: 40px;
   }
 
 
@@ -316,15 +331,6 @@ label {
         width: 90%;
         margin: 0 auto 0;
         height: auto;
-        grid-template-areas:
-        'amethyst'
-        'amethyst-img'
-        'clear-quartz'
-        'clear-quartz-img'
-        'rose-quartz'
-        'rose-quartz-img'
-        'citrine'
-        'citrine-img';
     }
 }
 
@@ -335,7 +341,7 @@ label {
         font-size: 35px;
     }
    h2 {
-       margin-top: 110px;
+       margin-top: 150px;
        font-size: 25px;
    }
     nav li {
@@ -374,15 +380,6 @@ label {
         width: 90%;
         margin: 0 auto 0;
         height: auto;
-        grid-template-areas:
-        'amethyst'
-        'amethyst-img'
-        'clear-quartz'
-        'clear-quartz-img'
-        'rose-quartz'
-        'rose-quartz-img'
-        'citrine'
-        'citrine-img';
     }
 
     img {
@@ -405,4 +402,12 @@ label {
      .reiki p {
          margin: 0 15px 10px 15px;
      }
+}
+
+@media screen and (max-width: 350px) {
+  
+    .power-of-crystals {
+       margin-top: 150px;
+       font-size: 25px;
+   }
 }

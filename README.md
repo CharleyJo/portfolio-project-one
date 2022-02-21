@@ -104,4 +104,17 @@ Photos source
 Git was used for version control by utilizing the Gitpod terminal, to commit to Git and Push to GitHub.
 ## VSCODE:
 VSCODE is used to store the projects code after being pushed from Git.
- 
+
+## Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+### Google Chrome Lighthouse Report
+* light house report contact page
+![light house report contact](/assets/images/contact-lighthoue.png)
+
+* light house report healing page
+![light house report mobile](/assets/images/healing-lighthouse.png)
+
+ * light house report crystal page
+![light house report mobile](/assets/images/crystal-lighthouse.png)
+
